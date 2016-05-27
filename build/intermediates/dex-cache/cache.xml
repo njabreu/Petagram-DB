@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_a26c997d2ae43d1a77d511fcdde946d6a999a9f2\classes.dex" />
+    </item>
+    <item
+        jar="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_58872bf8fcd659f5fc2f6f4e7f2b536da1d725dd\classes.dex" />
+    </item>
+    <item
+        jar="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5fdd447be1b451af39a4bed0ef1919bf0bed3077">
+        <dex dex="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ce87a565b44d26f6ba4bb031ed500fd75636f75a\classes.dex" />
+    </item>
+    <item
+        jar="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_ebfe7ca18d7e58c949366030e91f9eb942ad5ae6\classes.dex" />
+    </item>
+    <item
+        jar="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikhaellopez-circularimageview-3.0.2_763603b1543e96a5b19758e70966fbc082bed9f6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nelson\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-activation\1.5.5\5442d5e05808145434b750c9f8a0c3f537383c5a\android-activation-1.5.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-activation-1.5.5_4e8eede803478a17a59552402504cfb6c3055a49\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nelson\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-mail\1.5.5\53a2f927b235acb565dbe9314ececfb7e6d43020\android-mail-1.5.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-mail-1.5.5_1eb7d936035775669b4b39d43d0b95ec9fcff46f\classes.dex" />
+    </item>
+    <item
+        jar="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_390f15860c0a45ca108058497224591078f94a0e\classes.dex" />
+    </item>
+    <item
+        jar="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_45906afef84c03fa541da25b6bd2f2d2d060007a\classes.dex" />
+    </item>
+    <item
+        jar="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_94d968d453738f229473d9f58acb75823c08c80d\classes.dex" />
+    </item>
+    <item
+        jar="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="74804b61708b9f6849a6c3ead278ac34f9eb4866">
+        <dex dex="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_86d335f6169c0578693988bdcbd3e7c24a70b554\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nelson\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_67a116dec8ecedf8c53ef8f9f1af9a9a5906655e\classes.dex" />
+    </item>
+    <item
+        jar="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_36fee2082ad247eb3876b844fb022bfa68d6cf80\classes.dex" />
+    </item>
+    <item
+        jar="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Dropbox\AndroidProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_91f337ffd2c12e68aa8ff19aad22bed4acf565f3\classes.dex" />
+    </item>
+
+</items>
